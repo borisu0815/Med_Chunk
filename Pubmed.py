@@ -5,4 +5,6 @@ print(article.title)
 print(article.journal, article.year, article.volume, article.issue)
 print(article.authors)
 
+ * Also refer to https://pypi.python.org/pypi/metapub for further directions
+
 
